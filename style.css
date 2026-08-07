@@ -103,6 +103,11 @@ button {
     flex-direction: column;
 }
 
+.quote-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .quote {
     display: flex;
     font-size: 36px;
