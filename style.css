@@ -116,6 +116,7 @@ button {
 .quoter {
     display: flex;
     justify-content: end;
+    font-weight: bold;
 }
 
 .action {
